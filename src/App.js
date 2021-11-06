@@ -19,13 +19,13 @@ function App() {
         },
         {
             id: 2,
-            text: 'Toilet Destruction',
+            text: 'Crush It',
             day: 'Feb 4 at 4:30pm',
             reminder: true,
         },
         {
             id: 3,
-            text: 'Brain Melting',
+            text: 'Melt Brains',
             day: 'Feb 8 at 5:30pm',
             reminder: false,
         },
